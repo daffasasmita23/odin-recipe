@@ -1,0 +1,28 @@
+*{
+    background-color: gray;
+}
+
+.header-main{
+    text-align: center;
+    font-size: 45px;
+    color: white;
+    background-color: blue;
+
+}
+
+
+button{
+    background-color: black;
+}
+
+a{
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+
+img {
+    width: 310px;
+    height: 310px;
+}
