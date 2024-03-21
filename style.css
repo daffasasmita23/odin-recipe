@@ -1,5 +1,6 @@
 *{
     background-color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .header-main{
@@ -25,4 +26,8 @@ a{
 img {
     width: 310px;
     height: 310px;
+}
+
+span{
+    font-weight: bold;
 }
